@@ -14,6 +14,16 @@ PHP实现WEB操作端，可以发挥PHP快速好用的特点；
 
 #### 截图
 
-
-##### 首页
 ![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/1.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/2.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/3.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/4.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/5.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/6.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/7.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/8.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/9.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/10.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/11.jpg)
+![avatar](https://gitee.com/wugu/lhyg/raw/master/assets/12.jpg)
+
